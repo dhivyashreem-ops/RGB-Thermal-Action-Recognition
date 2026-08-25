@@ -1,0 +1,9 @@
+CMAF-NET FINAL ANALYSIS
+=======================
+
+Mean RGB->Thermal attention: 0.062500
+Mean Thermal->RGB attention: 0.062500
+RGB->Thermal entropy: 1.629192
+Thermal->RGB entropy: 1.304805
+RGB->Thermal max attention: 0.494023
+Thermal->RGB max attention: 0.589245

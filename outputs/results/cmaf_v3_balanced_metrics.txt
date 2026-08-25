@@ -1,0 +1,9 @@
+CMAF-NET V3 BALANCED RESULTS
+============================
+
+Best Validation Macro-F1: 0.8782
+Test Accuracy: 0.5470
+Macro Precision: 0.6161
+Macro Recall: 0.5638
+Macro F1: 0.5521
+Weighted F1: 0.5468

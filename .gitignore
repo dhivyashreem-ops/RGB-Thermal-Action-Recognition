@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+*.egg-info/
+.pytest_cache/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Large datasets
+data/
+datasets/
+
+# NumPy generated arrays
+outputs/results/*.npy
+
+# OS files
+.DS_Store
+Thumbs.db
